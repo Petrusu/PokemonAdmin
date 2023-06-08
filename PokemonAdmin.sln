@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonAdmin", "PokemonAdmin\PokemonAdmin.csproj", "{C0F5EE39-38D0-435E-950F-3589E2E19EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F5EE39-38D0-435E-950F-3589E2E19EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F5EE39-38D0-435E-950F-3589E2E19EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F5EE39-38D0-435E-950F-3589E2E19EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F5EE39-38D0-435E-950F-3589E2E19EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
